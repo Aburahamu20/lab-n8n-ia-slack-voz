@@ -266,7 +266,21 @@ Pestaña **Herramientas → Añadir herramienta → Añadir herramienta webhook*
 | Max Tokens | `1000` |
 | Bot de Slack | `@n8n-Abraham` |
 
+evidencia:
+
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b0e7f71f-5aa6-4168-b48f-853ae4301fd1" />
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/419a996e-6ba3-4df9-8333-9fd45c64cc51" />
+
+
+<img width="1087" height="872" alt="Captura de pantalla 2026-06-26 132751" src="https://github.com/user-attachments/assets/7a9fe99a-e040-436c-8354-c26f02b47738" />
+
+
+
+
+<img width="1090" height="867" alt="Captura de pantalla 2026-06-26 131636" src="https://github.com/user-attachments/assets/735020d7-de7e-4cd8-b00e-0c95000f3f45" />
+
+
+
+<img width="732" height="545" alt="Captura de pantalla 2026-06-26 125105" src="https://github.com/user-attachments/assets/b9896aac-e5d7-4ef1-b0dc-ff94724d4f3f" />
