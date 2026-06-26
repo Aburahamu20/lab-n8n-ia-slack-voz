@@ -265,3 +265,8 @@ Pestaña **Herramientas → Añadir herramienta → Añadir herramienta webhook*
 | Modelo IA que funcionó | `google/gemini-2.5-flash` (nodo OpenAI Chat Model + credencial OpenRouter) |
 | Max Tokens | `1000` |
 | Bot de Slack | `@n8n-Abraham` |
+
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b0e7f71f-5aa6-4168-b48f-853ae4301fd1" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/419a996e-6ba3-4df9-8333-9fd45c64cc51" />
